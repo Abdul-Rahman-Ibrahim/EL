@@ -1,0 +1,59 @@
+Hello,
+
+I am a student at Vrije University studying computer science. My unlce, the owner of El Travel and Events, wants an update to his website,
+specifically the Travel Management Template.
+
+My uncle described to me what needs to be updated and having some basics knowleged in html, I was able to make a template of what my uncle wants
+to be updated.
+
+I will give a brief explanation to what needs to be updated and then I will attach a link to the template so that you have a fair idea of what
+the webpage should look like.
+
+
+The Travel Management webpage should be divided into 4 sections, each having a link to a newly created web page. The newly created web page should
+be a form prospective customer can put their information into. I am listing each section below.
+
+1. Visa Application      --> Has link to a Form in a new webpage
+2. Passport Application  --> Has link to a Form in a new webpage
+3. Shuttles and Pick ups --> Has link to a Form in a new webpage
+4. Tour Services         --> Has link to a Form in a new webpage
+
+Please the Form for each section has different information.
+
+Please the template I am going to attach is created without styling and does not necessarily mean the webpage to be updated does not require styling.
+The template is just to show you how the webpage should be divided into sections and what forms they are directed to when each section's link is clicked.
+
+Link to template: https://abdul-rahman-ibrahim.github.io/EL/
+
+The information required for each section's form is shown below.
+
+					1. Visa Application Form
+
+				- A drop down to select the visa processing type. Has 2 options only: Normal and Express
+				- A drop down to select the destination country
+				- First name entry
+				- Last name entry
+				- Mobile Number
+				- Email (Optional)
+				- Expected departure date
+				- Footer should have a photo of visa
+
+
+					2. Passport Application Form
+				- A dropdown to select passport application type. Has 2 options only: Renewal and New Application
+Personal details
+First name | Last name | Other name (Optional) | Address | Mobile Number | Email
+
+General information
+Title | Gender | Marital status | Maiden(Single/Maried/Divorced/Widowed) | Previous name |
+Profession | Date of Birth | City of Birth | Country of Birth | Nationality | Other Nationality(Optional) |
+National ID card no |
+
+Education
+Institution | Address | Period Year From | Period Year To
+
+Family 
+Mother's name | MothersMother Alive(Yes/No) | Father's name | Father Alive(Yes/No) | 
+			
+				
+				
